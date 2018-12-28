@@ -1,9 +1,9 @@
 Git demo file!!!!!!!!!!! Welcome to git!!!!!!!!!
 change 1 in file
 
-change2
+Change 2 
 
 
-change 3
+Change 3
 
-change!!
+Change!!
